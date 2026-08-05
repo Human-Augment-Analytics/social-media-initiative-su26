@@ -1,7 +1,7 @@
 # HAAG Social Media Initiative
 
 ## Group Information
-**Initiative Name:** Social Media Engagement (Increasing HAAG Visibility)
+
 **Team Members:**
 * Jacob McGivern (Project Manager)
 * Sheena Patel (Project Manager)
