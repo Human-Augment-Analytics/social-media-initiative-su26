@@ -48,7 +48,12 @@ I am doing the Blog Posts and Events Promotion. Anything related to it is on me.
 * task
 
 ### **Week 10 - July 26 2026**
-* task
+* Reviewed and brainstorm what other important tasks needs to be
+  completed for the rest of the Initiative. (2hrs)
+* Wrote out LinkedIn Post for the project spotlight and wrote out the proper hook
+   for the project spotlight. (3hrs)
+* Attended CS 8803 weekly class meeting on Wednesday at 8PM
+*  Wrote out project Spotlight Template script (3hrs )
 
 ### **Week 11 - August 2 2026** 
 * task
