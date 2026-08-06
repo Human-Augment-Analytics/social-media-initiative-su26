@@ -1,4 +1,4 @@
-# Implementation: Slack-Based Internal Lab Meeting Tracker & Automation
+# Slack-Based Internal Lab Meeting Tracker & Automation
 
 ## Related Procedure
 This tracker serves is used for tracking Lab events that currently occur every Thursday. It also contains a workflow for posting automatically the day of the meeting in #general chat in Slack.

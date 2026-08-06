@@ -1,5 +1,6 @@
 # Procedure: Slack-Based Blog Post Pipeline Tracker
 
+
 ## Related Procedure
 This tracker serves as the primary operational tool for managing the workflow defined in the Blog Post Outreach Process. The blog post process it is built on was made by Neelima Pandey, and not the Summer 2026 managers. It is not found within the github since its not our work.
 
