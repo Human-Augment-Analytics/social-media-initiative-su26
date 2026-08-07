@@ -1,0 +1,96 @@
+[
+  {
+    "sid": "/i-title-and-purpose",
+    "title": "I. Title and Purpose",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/ii-scope-and-use",
+    "title": "II. Scope and Use",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/the-scope-of-document-covers-the-procedure-and-protocols-of-the-faces-of-haag-feature-that-will-get-posted-on-linkedin-it-covers-the-methodologies-for-creating-and-drafting-a-post-for-a-faces-of-haag-feature-this-document-does-not-cover-the-post-feedback-approval-process-nor-does-it-go-over-the-procedure-of-the-project-spotlight",
+    "title": "The scope of document covers the procedure and protocols of the Faces of HAAG feature that will get posted on LinkedIn. It covers the methodologies for creating and drafting a post for a Faces of Haag feature. This document does not cover the post-feedback approval process, nor does it go over the procedure of the project spotlight.",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/iii-roles-and-responsibilities",
+    "title": "III. Roles and Responsibilities",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/",
+    "title": "",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/iv-tools-or-prerequisites",
+    "title": "IV. Tools or Prerequisites",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/ii-standard-pipeline",
+    "title": "II. Standard Pipeline",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/iii-phase-1--sourcing",
+    "title": "III. Phase 1 — Sourcing",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/fill-in-the-blanks--candidate--project-selected",
+        "title": "Fill In the blanks — Candidate / Project Selected",
+        "level": 2,
+        "parent": "/iii-phase-1--sourcing",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/iv-phase-2--content-collection",
+    "title": "IV. Phase 2 — Content Collection",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/v-phase-3--translation-writing-the-postscript",
+    "title": "V. Phase 3 — Translation (Writing the Post/Script)",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/vi-worked-examples",
+    "title": "VI. Worked Examples",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/worked-example--illustrative-template",
+        "title": "Worked Example — Illustrative Template",
+        "level": 2,
+        "parent": "/vi-worked-examples",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/vii-the-post-feedback-and-approval-process",
+    "title": "VII. The Post-Feedback and Approval Process",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/viii-phase-4--promotion",
+    "title": "VIII. Phase 4 — Promotion",
+    "level": 1,
+    "children": []
+  }
+]

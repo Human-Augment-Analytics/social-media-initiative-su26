@@ -1,0 +1,97 @@
+[
+  {
+    "sid": "/i-title-and-purpose",
+    "title": "I. Title and Purpose",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/ii-scope-and-use",
+    "title": "II. Scope and Use",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/the-use-and-scope-of-this-word-document-cover-the-protocols-and-procedures-of-the-project-spotlight-feature-this-feature-will-get-posted-onto-linkedin-the-word-document-also-goes-over-methodologies-for-drafting-and-creating-a-post-for-the-haag-project-spotlight-feature-this-word-document-will-not-cover-the-procedures-of-faces-of-haag-it-also-does-not-talk-about-the-post-feedback-approval-process",
+    "title": "The use and scope of this word document cover the protocols and procedures of the Project Spotlight feature. This feature will get posted onto LinkedIn. The word document also goes over methodologies for drafting and creating a post for the HAAG project spotlight feature. This word document will not cover the procedures of Faces of HAAG. It also does not talk about the post-feedback approval process.",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/iii-roles-and-responsibilities",
+    "title": "III. Roles and Responsibilities",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/iv-tools-or-prerequisites",
+    "title": "IV. Tools or Prerequisites",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/v-standard-pipeline",
+    "title": "V. Standard Pipeline",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/vi-phase-1--sourcing",
+    "title": "VI. Phase 1 — Sourcing",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/fill-in-the-blanks--candidate--project-selected",
+        "title": "Fill In the blanks — Candidate / Project Selected",
+        "level": 2,
+        "parent": "/vi-phase-1--sourcing",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/vii-phase-2--content-collection",
+    "title": "VII. Phase 2 — Content Collection",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/viii-phase-3--translation-writing-the-postscript",
+    "title": "VIII. Phase 3 — Translation (Writing the Post/Script)",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/viiii-worked-examples",
+    "title": "VIIII. Worked Examples",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/worked-example--illustrative-template",
+        "title": "Worked Example — Illustrative Template",
+        "level": 2,
+        "parent": "/viiii-worked-examples",
+        "children": []
+      },
+      {
+        "sid": "/worked-example--real-project-spotlight-filled-draft",
+        "title": "Worked Example — Real Project Spotlight (Filled Draft)",
+        "level": 2,
+        "parent": "/viiii-worked-examples",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/x-the-post-feedback-and-approval-process",
+    "title": "X. The Post-Feedback and Approval Process",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/xi-phase-4--promotion",
+    "title": "XI. Phase 4 — Promotion",
+    "level": 1,
+    "children": []
+  }
+]
