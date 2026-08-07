@@ -127,16 +127,16 @@ Publishing is the midpoint, not the finish line.
 | **Engagement** | Invite HAAG Slack to engage; someone from HAAG responds to comments. |
 | **Reuse** | Eligible as a baseline for a future blog post. |
 
-XII. Outputs or Success Criteria
+# XII. Outputs or Success Criteria
 
 - Success of the procedure would be receiving feedback of the draft on time and getting it published onto LinkedIn with active engagement from users of the website.
 
-XII. Lessons and future improvements
+# XII. Lessons and future improvements
 
 - Need to know to who has accessibility to publish the draft onto LinkedIn.
 - Need to assign roles and responsibilities ahead of the semester. To keep the process consistent and move along the semester.
 - It was difficult in getting feedback for drafts. There should be a way to address this issue.
 
-XIV. Contributors
+# XIV. Contributors
 
 - Sheena – created, edited and made revisions in the document
