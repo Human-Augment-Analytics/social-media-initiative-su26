@@ -1,6 +1,6 @@
 **Implementation: Post-Feedback Process (Project Spotlight Pilot)**
 
-* I. Procedure Implemented:**
+**I. Procedure Implemented:**
 
 Concept for the post-feedback procedure: the channel #postfeedback is in the HAAG Slack channel.
 
