@@ -62,7 +62,7 @@ for the project spotlight. (3hrs)
 * Attended CS 8803 weekly class meeting on Wednesday at 8PM
 * Wrote out project Spotlight Template script (3hrs )
 
-Work on the Final Presentation
+*Work on the Final Presentation
 * Review Feedback on the project Spotlight post for LinkedIn
 * See where and how to make sure the LinkedIn posts get approved and posted.
 Review if my proposal of the feedback pipeline about LinkedIn posts gets
