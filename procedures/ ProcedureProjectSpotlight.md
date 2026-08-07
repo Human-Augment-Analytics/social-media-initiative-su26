@@ -10,7 +10,7 @@ The objective of the Project Spotlight document is to act as a template and prov
 
 # II. Scope and Use
 
-# The use and scope of this word document cover the protocols and procedures of the Project Spotlight feature. This feature will get posted onto LinkedIn. The word document also goes over methodologies for drafting and creating a post for the HAAG project spotlight feature. This word document will not cover the procedures of Faces of HAAG. It also does not talk about the post-feedback approval process.
+ The use and scope of this word document cover the protocols and procedures of the Project Spotlight feature. This feature will get posted onto LinkedIn. The word document also goes over methodologies for drafting and creating a post for the HAAG project spotlight feature. This word document will not cover the procedures of Faces of HAAG. It also does not talk about the post-feedback approval process.
 
 # III. Roles and Responsibilities
 
