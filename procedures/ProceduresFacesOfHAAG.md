@@ -10,7 +10,7 @@ The objective of the Faces of HAAG document is to act as a template and provide 
 
 # II. Scope and Use
 
-# The scope of document covers the procedure and protocols of the Faces of HAAG feature that will get posted on LinkedIn. It covers the methodologies for creating and drafting a post for a Faces of Haag feature. This document does not cover the post-feedback approval process, nor does it go over the procedure of the project spotlight.
+ The scope of document covers the procedure and protocols of the Faces of HAAG feature that will get posted on LinkedIn. It covers the methodologies for creating and drafting a post for a Faces of Haag feature. This document does not cover the post-feedback approval process, nor does it go over the procedure of the project spotlight.
 
 # III. Roles and Responsibilities
 
