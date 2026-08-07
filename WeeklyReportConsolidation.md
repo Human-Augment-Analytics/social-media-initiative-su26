@@ -42,13 +42,43 @@ I am doing the Blog Posts and Events Promotion. Anything related to it is on me.
 
 ## **Sheena Patel**
 ### **Week 8 - July 12 2026** 
-* task
+* Meet up with Jacob to have a conversation about the powerpoint slides.
+* Developed PowerPoint presentation(MidtermPresentation) with Jacob 
+* Presented Midterm presentation on July 10,2026 
 
 ### **Week 9 - July 19 2026** 
-* task
+* Brainstormed and planned on what steps I need to take further based on the
+feedback we had gotten with your proposal presentation(2hrs)
+* Reviewed shared word documents among the social media imitative group(3hrs)
+* Attended CS 8803 weekly class meeting on Wednesday at 8PM
+* Read and highlight parts of the Project Spotlight: Predicting  Railroad Crossing
+* Delays with Machine Learning word document. To figure out what parts of thereport to include in the LinkedIn Post along with properly meshing it with ourscript template that we proposed in our presentation.
 
 ### **Week 10 - July 26 2026**
-* task
+* Reviewed and brainstorm what other important tasks needs to be
+completed for the rest of the Initiative. (2hrs)
+* Wrote out LinkedIn Post for the project spotlight and wrote out the proper hook
+for the project spotlight. (3hrs)
+* Attended CS 8803 weekly class meeting on Wednesday at 8PM
+* Wrote out project Spotlight Template script (3hrs )
 
+Work on the Final Presentation
+* Review Feedback on the project Spotlight post for LinkedIn
+* See where and how to make sure the LinkedIn posts get approved and posted.
+Review if my proposal of the feedback pipeline about LinkedIn posts gets
+approved.
+* Ask more questions about who and how the posts will get uploaded
+* Ask more question what specific tasks need get done before the deadline of
+needing to post occurs.
 ### **Week 11 - August 2 2026** 
-* task
+* Attended CS 8803 weekly class meeting on Wednesday at 8PM(1hrs)
+* Reworked and modified trackers on Slack for the Project Spotlight and FACES of
+HAAG(6hrs)
+* Review and applied feedback on the project spotlight post for LinkedIn. (2hrs)
+* Figured out where and how to make sure the LinkedIn post gets approved and
+posted. (1hr)
+
+* Work on and finalize the Final presentation for August 6th
+* Write out word document for the Final Exam that is due August 6th
+* Continue to review and apply any feedback given for the final presentation
+* Prepare and rehearse for Final presentation
